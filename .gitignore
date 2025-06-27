@@ -1,0 +1,56 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.venv/
+env/
+
+# VS Code, PyCharm, or other editor settings
+.vscode/
+.idea/
+
+# OS / system files
+.DS_Store
+Thumbs.db
+
+# Log and cache files
+*.log
+*.sqlite3
+*.db
+*.pid
+*.cache
+
+# Environment variable files
+.env
+.env.*
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Static file cache (if any)
+static/__pycache__/
+.history
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/ 
+# Coverage reports
+.coverage
+.coverage.*
+# Pytest cache
+.pytest_cache/
+# MyPy cache
+.mypy_cache/
+# Sphinx documentation      
+docs/_build/
+# PyInstaller
+*.spec
+# Cython debug symbols
+cython_debug/   
+
+# Local settings
+local_settings.py
